@@ -1,0 +1,1 @@
+void sortStackArray(int *arr, int n);

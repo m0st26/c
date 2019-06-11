@@ -1,6 +1,5 @@
 ﻿#include <stdio.h>
 #include <time.h>
-#include "task1.h"
 #include "task5.h"
 #define N 10
 
